@@ -21,7 +21,7 @@ body {
 
 .text {
 	position: absolute;
-	margin: 25vh 25vw;
+	margin: 30vh 20vw;
 	z-index: 2;
 	font-size: 3rem;;
     font-family: 'Roboto', sans-serif;
@@ -141,8 +141,8 @@ canvas {
 
 	.text {
 		position: absolute;
-		margin: 30vh 20vw;
-		max-width: 830px;
+		margin: 35vh 20vw;
+		max-width: 875px;
 		z-index: 2;
 		font-size: 2rem;;
 		font-family: 'Roboto', sans-serif;
@@ -236,10 +236,10 @@ canvas {
 	}
 
 	.text {
-		font-size: 17px;
+		font-size: 20px;
 		font-family: 'Roboto', sans-serif;
 		color: #ffffff;
-		margin: 20rem 2rem;
+		margin: 16rem 2rem;
 		line-height: 23px;
 	}
 
